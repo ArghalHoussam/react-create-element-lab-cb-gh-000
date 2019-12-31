@@ -9,7 +9,7 @@ cont meInReact = createElement(
     createElement('h1', {}, 'a muslim person'),
     createElement('p', {}, 'who is learning react'),
     createElement(
-      'ul', 
+      'ul',
       { className: 'my-interests' },
       [
         createElement('li', {}, 'React'),
